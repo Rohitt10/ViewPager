@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="red">Agni</string>
+    <string name="blue">Jal</string>
+    <string name="green">Prithvi</string>
+    <string name="yellow">Vayu</string>
+    <string name="vg">VidyaGyan</string>
+    <string name="vg_des">Each student belongs to
+        one of the four houses
+        in VidyaGyan</string>
+</resources>
